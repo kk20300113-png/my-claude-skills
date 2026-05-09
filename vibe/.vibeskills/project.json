@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "brand": "vibeskills",
+  "generated_at": "2026-05-03T04:08:12Z",
+  "workspace_root": "C:\\Users\\kahye\\.claude\\skills\\vibe",
+  "workspace_sidecar_root": "C:\\Users\\kahye\\.claude\\skills\\vibe\\.vibeskills",
+  "project_descriptor_path": "C:\\Users\\kahye\\.claude\\skills\\vibe\\.vibeskills\\project.json",
+  "default_artifact_root": "C:\\Users\\kahye\\.claude\\skills\\vibe\\.vibeskills",
+  "relative_runtime_contract": {
+    "requirement_root": "docs/requirements",
+    "execution_plan_root": "docs/plans",
+    "session_root": "outputs/runtime/vibe-sessions"
+  },
+  "host_sidecar_root": null,
+  "memory_plane": {
+    "identity_root": "C:\\Users\\kahye\\.claude\\skills\\vibe\\.vibeskills\\project.json",
+    "identity_scope": "workspace",
+    "driver_contract": "workspace_shared_memory_v1",
+    "logical_owners": [
+      "state_store",
+      "serena",
+      "ruflo",
+      "cognee"
+    ]
+  }
+}
